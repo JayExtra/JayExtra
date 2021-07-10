@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayExtra
+- 👋 Hi, I’m James Gitonga
 - 👀 I’m interested in Android Development both in Java and Kotlin. I also love back-end development in NodeJs.
 - 🌱 I’m currently learning Android Development in Kotlin
 - 💞️ I’m looking to collaborate on Android Open Source projects or any android project either custom or company required.
