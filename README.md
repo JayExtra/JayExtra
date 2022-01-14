@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayExtra&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayExtra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m James Gitonga
 - 👀 I’m interested in Android Development both in Java and Kotlin. I also love back-end development in NodeJs.
