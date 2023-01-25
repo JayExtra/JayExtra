@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Android Development in Kotlin
 - 💞️ I’m looking to collaborate on Android Open Source projects or any android project either custom or company required.
 - 📫 How to reach me twiter : @JamesTravor
+- Read my Android Development blog in Hashnode where I tackle different Android Programming related topics : [My Hashnode Blog](https://jaydroid254.hashnode.dev/)
 
 <!---
 JayExtra/JayExtra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
