@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m James Gitonga
 - 👀 I’m interested in Android Development both in Java and Kotlin. I am also currently learning backend development with KTOR.
-- 🌱 I’m currently learning Android Development in Kotlin
 - 💞️ I’m looking to collaborate on Android Open Source projects or any android project either custom or company required.
 - 📫 How to reach me twiter : @JamesTravor
 - Read my Android Development blog in Hashnode where I tackle different Android Programming related topics : [My Hashnode Blog](https://jaydroid254.hashnode.dev/)
